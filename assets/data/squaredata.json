@@ -1,0 +1,37 @@
+[
+  {
+    "name": "黄飞鸿",
+    "content": "你知道我有多牛B吗",
+    "commentNum": 666,
+    "thumbsUpNum": 12,
+    "img": "require('../../assets/content/default_headshot.png')"
+  },
+  {
+    "name": "廖飞",
+    "content": "我想啸啊",
+    "commentNum": 111,
+    "thumbsUpNum": 30,
+    "img": "require('../../assets/content/default_headshot.png')"
+  },
+  {
+    "name": "马飞飞",
+    "content": "我敢吃**",
+    "commentNum": 156,
+    "thumbsUpNum": 30,
+    "img": "require('../../assets/content/default_headshot.png')"
+  },
+  {
+    "name": "卢本飞",
+    "content": "伞兵一号廖飞，请求奖励",
+    "commentNum": 3215,
+    "thumbsUpNum": 36,
+    "img": "require('../../assets/content/default_headshot.png')"
+  },
+  {
+    "name": "渣渣灰",
+    "content": "佛山渣渣鸿请求赐教",
+    "commentNum": 325,
+    "thumbsUpNum": 124,
+    "img": "require('../../assets/content/default_headshot.png')"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "key": 1,
+    "name": "消息设置",
+    "rightIcon": true
+  },
+  {
+    "key": 2,
+    "name": "夜间模式",
+    "rightIcon": false
+  },
+  {
+    "key": 3,
+    "name": "隐私设置",
+    "rightIcon": true
+  },
+  {
+    "key": 4,
+    "name": "偏好设置",
+    "rightIcon": true
+  },
+  {
+    "key": 5,
+    "name": "给我们评分",
+    "rightIcon": true
+  },
+  {
+    "key": 6,
+    "name": "推荐好友",
+    "rightIcon": true
+  },
+  {
+    "key": 7,
+    "name": "用户服务条款",
+    "rightIcon": true
+  },
+  {
+    "key": 8,
+    "name": "隐私条款",
+    "rightIcon": true
+  },
+  {
+    "key": 9,
+    "name": "信息收集说明",
+    "rightIcon": true
+  },
+  {
+    "key": 10,
+    "name": "第三方SDK信息",
+    "rightIcon": true
+  }
+]
